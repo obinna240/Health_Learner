@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: j6FYdHNwvIzMP83Z6mTnxQZekCo=
+Created-By: 1.6.0_13 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: WBCxJyIwje6BE6eYCdhrnB0c7Yk=
+
+Name: gnu/getopt/README
+SHA1-Digest: Oruqs9CL10H75QlnFKS9qUkZQuo=
+
+Name: gnu/getopt/MessagesBundle_de.properties
+SHA1-Digest: gGIqu+LEJv+HGWQcnhdFdAEVbsc=
+
+Name: gnu/getopt/MessagesBundle_cs.properties
+SHA1-Digest: kXR2c1hC1RVlCTFpXO7GlCVFUdM=
+
+Name: gnu/getopt/MessagesBundle_es.properties
+SHA1-Digest: T+S85+gmR17fQBRksxLdlV4JQ7o=
+
+Name: gnu/getopt/MessagesBundle_fr.properties
+SHA1-Digest: RwR198Dr79QtbN4M2UDRxJroJaE=
+
+Name: gnu/getopt/LongOpt.class
+SHA1-Digest: NOsAPQt8XkZq87LeB1QURPN5kjU=
+
+Name: gnu/getopt/gnu.getopt.LongOpt.html
+SHA1-Digest: 4cdZnak1WvnE2aUE/0cBi6fBXzk=
+
+Name: gnu/getopt/GetoptDemo.class
+SHA1-Digest: O6N8oflrzZEJYtnfY7+r3tjXiBA=
+
+Name: gnu/getopt/Getopt.class
+SHA1-Digest: C0lqCuMxN0Gdn+NrqJX/3j0Rp6E=
+
+Name: gnu/getopt/Makefile
+SHA1-Digest: DKKdZCMpwgJjxtSwglHStffT7tE=
+
+Name: gnu/getopt/GetoptDemo.java
+SHA1-Digest: HxscRxZEi5kFF8oxXwoHvPYTARA=
+
+Name: gnu/getopt/Getopt.java
+SHA1-Digest: h1FJ5QI3y306NcYEq+Dq5mXQ0zI=
+
+Name: gnu/getopt/MessagesBundle_pl.properties
+SHA1-Digest: 7011o+0F+TI848eqC5k43MlvxvE=
+
+Name: gnu/getopt/MessagesBundle_ro.properties
+SHA1-Digest: IbWuPI6tLXPu5OBZNnPgLyBCbWE=
+
+Name: gnu/getopt/MessagesBundle_no.properties
+SHA1-Digest: ZmMwQYHJejQ+2zT/oZAR7KRSIHQ=
+
+Name: gnu/getopt/MessagesBundle_hu.properties
+SHA1-Digest: zDk57wXjTGFq13oidSeKclIc0gw=
+
+Name: gnu/getopt/MessagesBundle_nl.properties
+SHA1-Digest: YYXHP5XnWEqBeeGkcATakIS3iC4=
+
+Name: gnu/getopt/LongOpt.java
+SHA1-Digest: aSF4/SdhufX61PwPIq9jL82tcyA=
+
+Name: gnu/getopt/ChangeLog
+SHA1-Digest: GAyeZom6djw4eH8r9lR0if9adtQ=
+
+Name: gnu/getopt/MessagesBundle_it.properties
+SHA1-Digest: RFudI96qJ+mYa1aeHB2eOlwbRAc=
+
+Name: gnu/getopt/buildx.xml
+SHA1-Digest: sc1bZg/fMNBgONjBbOA4hkhSRps=
+
+Name: gnu/getopt/COPYING.LIB
+SHA1-Digest: 5k7VGTDgjNat3mnKDg51qYbo+gw=
+
+Name: gnu/getopt/MessagesBundle.properties
+SHA1-Digest: hbo1yoIj2UnjH74Hl5+G4RlBC6Y=
+
+Name: gnu/getopt/gnu.getopt.Getopt.html
+SHA1-Digest: u4FzInAD32WsD1vab1Gi637rwPw=
+
+Name: gnu/getopt/MessagesBundle_ja.properties
+SHA1-Digest: 1K7IcUEqbgjdywk+1rCSQUKEeUU=
+
+Name: gnu/getopt/LANGUAGES
+SHA1-Digest: xhtTfO+mwQ18pGnB+DdodF4Sp0g=
+

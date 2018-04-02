@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xmlns:gate="http://gate.ac.uk/ns/spring"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd
+		http://www.springframework.org/schema/data/mongo
+		http://www.springframework.org/schema/data/mongo/spring-mongo-1.4.xsd
+		http://www.springframework.org/schema/data/repository
+		http://www.springframework.org/schema/data/repository/spring-repository-1.5.xsd
+		http://gate.ac.uk/ns/spring http://gate.ac.uk/ns/spring.xsd">
+	
+	<context:annotation-config />
+		
+	<gate:init gate-home="C:/Babylon/Babylon_Application" user-config-file="C:/Babylon/Babylon_Application/gate.xml" plugins-home="C:/Babylon/Babylon_Application/plugins" />
+	
+	<gate:duplicate id="babylonAlg" return-template="true">
+		
+		<gate:saved-application location="C:/Babylon/Babylon_Application/application.xgapp" />
+	</gate:duplicate>
+	
+	<bean id="processor" class="gate.util.LanguageAnalyserDocumentProcessor" destroy-method="cleanup">
+		<property name="analyser" ref="babylonAlg" />
+		<gate:pooled-proxy max-size="2" />
+	</bean>
+	
+	 
+
+	
+
+	
+
+</beans>
+	
+
+
